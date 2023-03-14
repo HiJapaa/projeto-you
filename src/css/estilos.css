@@ -44,6 +44,7 @@ main:after {
     display: flex;
     justify-content: center;
     gap: 20px;
+    z-index: 10;
 }
 
 .botoes-carrossel .botao {
